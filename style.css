@@ -1,0 +1,6 @@
+ /* Mengatur tinggi elemen agar pemusatan vertikal terlihat jelas */
+.full-height {
+    min-height: 100vh; /* 100% dari tinggi viewport */
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+}
